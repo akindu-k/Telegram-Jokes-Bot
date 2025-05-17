@@ -83,9 +83,6 @@ This bot is configured for deployment on Heroku:
 3. The bot uses LangChain with the Groq API to generate a joke on that topic
 4. The generated joke is sent back to the user in the Telegram chat
 
-## License
-
-[Add your license information here]
 
 ## Acknowledgements
 
